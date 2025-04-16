@@ -53,7 +53,7 @@ How It Works
   - The game ends if the bird hits the top/bottom boundaries or collides with a pipe.
   - A score screen is displayed for a brief moment after a collision.
 
-- Start, Restart, and Exit
+- Start, Restart, and Exit:
   - Start: Press ENTER on the start screen to begin the game.
   - Restart: Press ENTER on the game over screen to play again.
   - Exit: Press ESC on the start screen or game over screen to quit the game.
